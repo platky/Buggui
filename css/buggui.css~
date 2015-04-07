@@ -1,0 +1,46 @@
+/* Put any additional CSS here */
+
+#mainCanvas {
+    border-style: solid;
+    border-width: 1px;
+    position: fixed;
+    top: 100px;
+    left: 10px;
+}
+
+#unit-tests {
+    position: absolute;
+    bottom: 10px;
+}
+
+.move-cursor {
+    cursor:move;
+}
+
+.cursor {
+    cursor:default;
+}
+
+.ns-cursor {
+    cursor:ns-resize;
+}
+
+.ew-cursor {
+    cursor:ew-resize;
+}
+
+.ne-cursor {
+    cursor:ne-resize;
+}
+
+.nw-cursor {
+    cursor:nw-resize;
+}
+
+.sw-cursor {
+    cursor:sw-resize;
+}
+
+.se-cursor {
+    cursor:se-resize;
+}
